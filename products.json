@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 123132,
+        "name" : "Casual Chic Men's Blue Stripe Shirt",
+        "price" : 250,
+        "image" : "./images/blueShirt.webp"
+    },
+    {
+        "id" : 176409,
+        "name" : "Rustic Mustard Linen Back To 90's Shirt",
+        "price" : 450,
+        "image" : "./images/brownShirt.webp"
+    },
+    {
+        "id" : 645223,
+        "name" : "Tropical Paradise Men's  Shirt",
+        "price" : 150,
+        "image" : "./images/casualShirt.webp"
+    },
+    {
+        "id" : 87532,
+        "name" : "Denver Men's  Casual shirt",
+        "price" : 650,
+        "image" : "./images/checkedShirt.webp"
+    },
+    {
+        "id" : 765123,
+        "name" : "Womens Royal Stag Grey Shirt",
+        "price" : 850,
+        "image" : "./images/greyShirt.webp"
+    },
+    {
+        "id" : 965976,
+        "name" : "Princess XXIX MIllenium",
+        "price" : 1250,
+        "image" : "./images/orangeShirt.webp"
+    },
+    {
+        "id" : 23432,
+        "name" : "History mens Oversized Britain Royal 2024",
+        "price" : 5250,
+        "image" : "./images/overSizedShirt.webp"
+    },
+    {
+        "id" : 4523412,
+        "name" : "Regular Womens 2019 White NOVELETTE",
+        "price" : 150,
+        "image" : "./images/whiteShirt.webp"
+    },
+    {
+        "id" : 9872531,
+        "name" : "Mens Secret GAUCHE the epitome 2024 Edition",
+        "price" : 10250,
+        "image" : "./images/yellowShirt.webp"
+    }
+]
